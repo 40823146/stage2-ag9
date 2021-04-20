@@ -222,11 +222,10 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170636.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
+<t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h1&gt;w6&lt;/h1&gt;
     &lt;p&gt;討論坐旋轉木馬&lt;/p&gt;
-    &lt;p&gt;https://img.onl/dUWiR4&lt;/p&gt;
+    &lt;p&gt;&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/000001_1521684794.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;&lt;/p&gt;
     @others
 &lt;/section&gt;
 
