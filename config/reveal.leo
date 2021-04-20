@@ -40,6 +40,11 @@
 <v t="leo.20210421031011.2"><vh>slide4-15</vh></v>
 <v t="leo.20210421031253.1"><vh>slide4-16</vh></v>
 </v>
+<v t="leo.20210421031506.1"><vh>slide 5</vh></v>
+<v t="leo.20210421031835.1"><vh>newHeadline</vh></v>
+<v t="leo.20210421032133.1"><vh>newHeadline</vh></v>
+<v t="leo.20210421032447.1"><vh>newHeadline</vh></v>
+<v t="leo.20210421032449.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -270,7 +275,7 @@ vertical: body pane on the botton</t>
 
 &lt;/section&gt;</t>
 <t tx="leo.20210421030732.1">&lt;section&gt;
- &lt;h1&gt;連桿1&lt;/h1&gt;
+ &lt;h1&gt;連桿&lt;/h1&gt;
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%80%A3%E8%B6%95.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
@@ -299,5 +304,34 @@ vertical: body pane on the botton</t>
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E7%B5%84%E5%90%88%E5%9C%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
+<t tx="leo.20210421031506.1">&lt;section&gt;
+      &lt;h1&gt;w8&lt;/h1&gt;
+    &lt;p&gt;利用coppeliaSim模擬&lt;/p&gt;
+   &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E6%93%B7%E5%8F%962.PNG" alt="" width="600" height="390"&gt;&lt;/p&gt; 
+&lt;/section&gt;</t>
+<t tx="leo.20210421031835.1">&lt;section&gt;
+&lt;h1&gt;w8&lt;/h1&gt;
+    &lt;p&gt;coppeliaSim模擬影片&lt;/p&gt;
+    &lt;p&gt;無齒輪狀態模擬&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/gObDe_cp6RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210421032133.1">&lt;section&gt;
+&lt;h1&gt;w8&lt;/h1&gt;
+    &lt;p&gt;coppeliaSim模擬影片&lt;/p&gt;
+    &lt;p&gt;底座手轉&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jTRXSWgXC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210421032447.1">&lt;section&gt;
+&lt;h1&gt;w8&lt;/h1&gt;
+    &lt;p&gt;coppeliaSim模擬影片&lt;/p&gt;
+    &lt;p&gt;模擬時上面未加限制導致木馬轉到一半時掉下來&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7TRqhprKHqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/section&gt;</t>
+<t tx="leo.20210421032449.1">&lt;section&gt;
+&lt;h1&gt;w8&lt;/h1&gt;
+    &lt;p&gt;coppeliaSim模擬影片&lt;/p&gt;
+    &lt;p&gt;模擬時上面未加限制導致木馬轉到一半時掉下來&lt;/p&gt;
+    &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cSTjKB_MVNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+    &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
