@@ -231,10 +231,10 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-    &lt;h2&gt;Slides&lt;/h2&gt;
-    &lt;p&gt;
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at &lt;a href="https://slides.com" target="_blank"&gt;https://slides.com&lt;/a&gt;.
-    &lt;/p&gt;
+      &lt;h1&gt;w6&lt;/h1&gt;
+    &lt;p&gt;討論坐旋轉木馬&lt;/p&gt;
+    &lt;p&gt;&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/000001_1521684794.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;&lt;/p&gt;
+    @others
 &lt;/section&gt;
 
 </t>
