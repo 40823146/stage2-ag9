@@ -19,13 +19,13 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>slide 1</vh></v>
-<v t="leo.20200818170535.1"><vh>slide 2</vh></v>
-<v t="leo.20200818170636.1"><vh>slide3</vh>
-<v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
-<v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
-<v t="leo.20200818171010.1"><vh>slide 3-3</vh></v>
+<v t="leo.20200818170535.1"><vh>slide 2</vh>
+<v t="leo.20210421020536.1"><vh>slide2-1</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 4</vh></v>
+<v t="leo.20200818170636.1"><vh>slide3</vh></v>
+<v t="leo.20200818170725.1"><vh>slide 4</vh>
+<v t="leo.20210421021654.1"><vh>slide4-1</vh></v>
+</v>
 <v t="leo.20200818171138.1"><vh>slide 5 </vh></v>
 <v t="leo.20200818171215.1"><vh>slide 6</vh></v>
 <v t="leo.20200818171244.1"><vh>slide 7 </vh></v>
@@ -219,6 +219,7 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
     &lt;h2&gt;w5&lt;/h2&gt;
     &lt;p&gt;找組員建立網站 &lt;/p&gt;
+    @others
 &lt;/section&gt;
 
 </t>
@@ -231,23 +232,15 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170725.1">&lt;section&gt;
-      &lt;h1&gt;w6&lt;/h1&gt;
-    &lt;p&gt;討論坐旋轉木馬&lt;/p&gt;
-    &lt;p&gt;&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/000001_1521684794.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;&lt;/p&gt;
+      &lt;h1&gt;w7&lt;/h1&gt;
+    &lt;p&gt;利用solidworks2017繪圖&lt;/p&gt;
+    &lt;p&gt;底座&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E5%BA%95%E5%BA%A7.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
     @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20200818170909.1">&lt;section&gt;
-
-   &lt;/section&gt;
-</t>
-<t tx="leo.20200818170953.1">&lt;section&gt;
-
-&lt;/section&gt;
-</t>
-<t tx="leo.20200818171010.1">&lt;section&gt;
-   &lt;/section&gt;</t>
 <t tx="leo.20200818171138.1">&lt;section data-auto-animate&gt;
     &lt;h2 data-id="code-title"&gt;Pretty Code&lt;/h2&gt;
     &lt;pre data-id="code-animation"&gt;&lt;code class="hljs" data-trim data-line-numbers&gt;
@@ -633,5 +626,14 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210421020536.1">&lt;section&gt;
+    &lt;h2&gt;工作分配&lt;/h2&gt;
+    &lt;p&gt;繪圖 40823114 張欽堯 &lt;/p&gt;
+    &lt;p&gt; 模擬 40823146 蕭宏翔 40823115 黃歸吉&lt;/p&gt;
+    &lt;p&gt;資料統整和網站更新 40823140 林子恩 &lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210421021654.1">&lt;section&gt;
+&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_07-QpyfEIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+&lt;section&gt;</t>
 </tnodes>
 </leo_file>
