@@ -30,6 +30,15 @@
 <v t="leo.20210421025716.1"><vh>slide4-5</vh></v>
 <v t="leo.20210421025952.1"><vh>slide4-6</vh></v>
 <v t="leo.20210421025952.2"><vh>slide4-7</vh></v>
+<v t="leo.20210421030238.1"><vh>slide4-8</vh></v>
+<v t="leo.20210421030507.1"><vh>slide4-9</vh></v>
+<v t="leo.20210421030616.1"><vh>slide4-10</vh></v>
+<v t="leo.20210421030732.1"><vh>slide4-11</vh></v>
+<v t="leo.20210421030832.1"><vh>slide4-12</vh></v>
+<v t="leo.20210421031010.1"><vh>slide4-13</vh></v>
+<v t="leo.20210421031011.1"><vh>slide4-14</vh></v>
+<v t="leo.20210421031011.2"><vh>slide4-15</vh></v>
+<v t="leo.20210421031253.1"><vh>slide4-16</vh></v>
 </v>
 </v>
 </v>
@@ -243,6 +252,51 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210421025952.2">&lt;section&gt;
  &lt;h1&gt;手把軸&lt;/h1&gt;
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E6%89%8B%E6%8A%8A%E8%BB%B8.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421030238.1">&lt;section&gt;
+ &lt;h1&gt;馬&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%A6%AC.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421030507.1">&lt;section&gt;
+ &lt;h1&gt;馬2&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%A6%AC2.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421030616.1">&lt;section&gt;
+ &lt;h1&gt;上主軸&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E4%B8%8A%E4%B8%BB%E8%BB%B8.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421030732.1">&lt;section&gt;
+ &lt;h1&gt;連桿1&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%80%A3%E8%B6%95.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421030832.1">&lt;section&gt;
+ &lt;h1&gt;連桿2&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%80%A3%E8%B6%95%20(2).png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421031010.1">&lt;section&gt;
+ &lt;h1&gt;輪軸&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E8%BC%AA%E8%BB%B8.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421031011.1">&lt;section&gt;
+ &lt;h1&gt;輪子&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E8%BC%AA%E5%AD%90.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421031011.2">&lt;section&gt;
+ &lt;h1&gt;約束軸&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E7%B4%84%E6%9D%9F%E8%BB%B8.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210421031253.1">&lt;section&gt;
+ &lt;h1&gt;組合圖&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E7%B5%84%E5%90%88%E5%9C%96.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
 
 &lt;/section&gt;</t>
 </tnodes>
