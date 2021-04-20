@@ -25,6 +25,7 @@
 <v t="leo.20200818170636.1"><vh>slide3</vh></v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh>
 <v t="leo.20210421021654.1"><vh>slide4-1</vh></v>
+<v t="leo.20210421023300.1"><vh>slide4-2</vh></v>
 </v>
 </v>
 </v>
@@ -198,6 +199,8 @@ vertical: body pane on the botton</t>
     &lt;p&gt;利用solidworks2017繪圖&lt;/p&gt;
     &lt;p&gt;底座&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E5%BA%95%E5%BA%A7.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_07-QpyfEIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;section&gt;
 
 &lt;/section&gt;
 
@@ -209,7 +212,13 @@ vertical: body pane on the botton</t>
     &lt;p&gt;資料統整和網站更新 40823140 林子恩 &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210421021654.1">&lt;section&gt;
-&lt;h1&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_07-QpyfEIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/h1&gt;
+ &lt;h1&gt;底座繪圖影片&lt;/h1&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_07-QpyfEIU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;section&gt;</t>
+<t tx="leo.20210421023300.1">&lt;section&gt;
+ &lt;h1&gt;齒輪箱&lt;/h1&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/%E9%BD%92%E8%BC%AA%E7%AE%B1.png" alt="" width="600" height="390"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/W9A1Jn5drKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;section&gt;</t>
 </tnodes>
 </leo_file>
