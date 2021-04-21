@@ -208,7 +208,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
     &lt;h1&gt;w6&lt;/h1&gt;
-    &lt;p&gt;討論坐旋轉木馬&lt;/p&gt;
+    &lt;p&gt;討論做旋轉木馬&lt;/p&gt;
     &lt;p&gt;&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823140/stage2-ag9/main/images/000001_1521684794.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;&lt;/p&gt;
 &lt;/section&gt;
 
@@ -336,7 +336,7 @@ vertical: body pane on the botton</t>
     &lt;/section&gt;</t>
 <t tx="leo.20210421032952.1">&lt;section&gt;
 &lt;h1&gt;心得&lt;/h1&gt;
-    &lt;p&gt;這一次4人一組，我們很快的討論出要坐旋轉木馬，繪圖的也在一個禮拜的時間把圖給畫出來，後來在模擬時出了很多的問題，最後還是無法解決讓木馬不會倒下來，希望下一次第三次分組時如果還有要繼續坐旋轉木馬的話可以把這一個地方完成&lt;/p&gt;
+    &lt;p&gt;這一次4人一組，我們很快的討論出要做旋轉木馬，繪圖的也在一個禮拜的時間把圖給畫出來，後來在模擬時出了很多的問題，最後還是無法解決讓木馬不會倒下來，希望下一次第三次分組時如果還有要繼續坐旋轉木馬的話可以把這一個地方完成&lt;/p&gt;
       &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
