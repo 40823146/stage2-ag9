@@ -41,10 +41,11 @@
 <v t="leo.20210421031253.1"><vh>slide4-16</vh></v>
 </v>
 <v t="leo.20210421031506.1"><vh>slide 5</vh></v>
-<v t="leo.20210421031835.1"><vh>newHeadline</vh></v>
-<v t="leo.20210421032133.1"><vh>newHeadline</vh></v>
-<v t="leo.20210421032447.1"><vh>newHeadline</vh></v>
-<v t="leo.20210421032449.1"><vh>newHeadline</vh></v>
+<v t="leo.20210421031835.1"><vh>slide5-1</vh></v>
+<v t="leo.20210421032133.1"><vh>slide5-2</vh></v>
+<v t="leo.20210421032447.1"><vh>slide5-3</vh></v>
+<v t="leo.20210421032449.1"><vh>slide5-4</vh></v>
+<v t="leo.20210421032952.1"><vh>slide6</vh></v>
 </v>
 </v>
 </v>
@@ -333,5 +334,9 @@ vertical: body pane on the botton</t>
     &lt;p&gt;模擬時上面未加限制導致木馬轉到一半時掉下來&lt;/p&gt;
     &lt;p&gt;&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cSTjKB_MVNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
     &lt;/section&gt;</t>
+<t tx="leo.20210421032952.1">&lt;section&gt;
+&lt;h1&gt;心得&lt;/h1&gt;
+    &lt;p&gt;這一次4人一組，我們很快的討論出要坐旋轉木馬，繪圖的也在一個禮拜的時間把圖給畫出來，後來在模擬時出了很多的問題，最後還是無法解決讓木馬不會倒下來，希望下一次第三次分組時如果還有要繼續坐旋轉木馬的話可以把這一個地方完成&lt;/p&gt;
+      &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
